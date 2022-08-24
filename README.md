@@ -1,1 +1,3 @@
-# Parcial-2
+## Resumen del Evento
+Fedora Explorer Day fue para mi un evento que se pudo aprender de que es Open Source, de porque es importante Security-Enhanced Linux que permite que los administradores tengan mayor control sobre las personas que pueden acceder a ellos, se dio muchos ejemplos y en mi personal me gustaria aprender un poco de linux, se hablo de mucha experiencia sobre linux y que es fedora, es una comunidad de voluntarios y empleados de la empresa red hat y su mision es liderar el avance de software y codigo libre y sus fundamentos son freedom, friends, first, features.
+[![Whats-App-Image-2022-08-24-at-5-56-50-PM.jpg](https://i.postimg.cc/265418RF/Whats-App-Image-2022-08-24-at-5-56-50-PM.jpg)](https://postimg.cc/DWtWDhz8)
